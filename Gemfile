@@ -48,5 +48,7 @@ group :development, :test do
 
   # RSpec for testing requests, controllers, models, views, helpers, mailers and routing
   gem 'rspec-rails'
+
+  gem 'capybara'
 end
 
