@@ -43,6 +43,6 @@ group :development, :test do
   gem 'spring'
 
   # RSpec for testing requests, controllers, models, views, helpers, mailers and routing
-  gem 'rspec-rails', '~> 3.0.0'
+  gem 'rspec-rails'
 end
 
