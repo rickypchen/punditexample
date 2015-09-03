@@ -6,7 +6,7 @@ module Features
       fill_in 'Email', :with => email
       fill_in 'Password', :with => password
 
-      click_on 'Sign In'
+      click_button("Log in")
     end
   end
 end
